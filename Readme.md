@@ -1,6 +1,5 @@
 <img align="right" src="https://user-images.githubusercontent.com/89591339/202513004-3f8ca0c1-72fc-45de-89a7-14f8ca8414c9.gif" width="408" height="169" >!
-[images (1)](https://user-images.githubusercontent.com/117060110/202835356-6d77d17a-6f80-446e-af72-f24aba2c404c.jpg)
-
+<img align="right" src="https://user-images.githubusercontent.com/117060110/202835544-1bd27d49-9f89-4ee5-bf2d-25f512c745da.gif" width="408" height="169" >!
 - 👋 Hi, I’m @SrikanthamSp
 - 👀 I’m interested in working on web development, databases, cloud computing and very interested in cooking.
 - 🌱 I’m currently learning to learn new skills. 
@@ -14,7 +13,6 @@
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 
 </a>
-
 <a href="https://mobile.twitter.com/home">
 
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
