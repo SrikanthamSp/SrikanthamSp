@@ -1,4 +1,3 @@
-<img align="right" src="https://user-images.githubusercontent.com/89591339/202513004-3f8ca0c1-72fc-45de-89a7-14f8ca8414c9.gif" width="408" height="169" >!
 <img align="right" src="https://user-images.githubusercontent.com/117060110/202835544-1bd27d49-9f89-4ee5-bf2d-25f512c745da.gif" width="408" height="169" >!
 - 👋 Hi, I’m @SrikanthamSp
 - 👀 I’m interested in working on web development, databases, cloud computing and very interested in cooking.
