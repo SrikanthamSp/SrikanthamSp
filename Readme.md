@@ -1,8 +1,7 @@
-<img align="right" src="https://user-images.githubusercontent.com/117060110/202835544-1bd27d49-9f89-4ee5-bf2d-25f512c745da.gif" width="408" height="169" >!
+<img align="right" src="https://user-images.githubusercontent.com/117060110/202835641-8b72920a-fad8-4278-9896-74ac414d0fd6.gif" width="408" height="169" >!
 - 👋 Hi, I’m @SrikanthamSp
 - 👀 I’m interested in working on web development, databases, cloud computing and very interested in cooking.
 - 🌱 I’m currently learning to learn new skills. 
-
  📫 How to reach me 
  <a href="https://www.linkedin.com/in/sai-praneeth-srikantham-286028257">
 
@@ -21,6 +20,6 @@
 <a href="srikanthamsp@gmail.com">
 
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-
-</a>
+ </a>
+ <img align="right" src="https://user-images.githubusercontent.com/117060110/202835544-1bd27d49-9f89-4ee5-bf2d-25f512c745da.gif" width="408" height="169" >!
 
