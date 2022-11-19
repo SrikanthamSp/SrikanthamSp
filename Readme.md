@@ -1,6 +1,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/89591339/202513004-3f8ca0c1-72fc-45de-89a7-14f8ca8414c9.gif" width="408" height="169" >
+![images (1)](https://user-images.githubusercontent.com/117060110/202835356-6d77d17a-6f80-446e-af72-f24aba2c404c.jpg)
 
-![images (4)](https://user-images.githubusercontent.com/117060110/202835251-7624f5d7-e557-4e14-9763-6a241e1e2379.jpg)
 - 👋 Hi, I’m @SrikanthamSp
 - 👀 I’m interested in working on web development, databases, cloud computing and very interested in cooking.
 - 🌱 I’m currently learning to learn new skills. 
