@@ -28,8 +28,6 @@
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg"  />
 </a>
 
- </a>
-
-
+</br></br>
 
 <img height="295em"  src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=SrikanthamSp&layout=compact&theme=github-dark" alt="Mridul's GitHub  Activity"/>
