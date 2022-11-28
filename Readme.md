@@ -28,9 +28,6 @@
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg"  />
 </a>
 
-<a href="[https://discord.com/channels/@me](https://discord.com/channels/@me)">
-  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
-</a>
  </a>
  
  
