@@ -23,3 +23,7 @@
 <a href="srikanthamsp@gmail.com">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
  </a>
+ </a>
+<a href="https://www.reddit.com/user/Subject_Year4058">
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg"  />
+</a>
