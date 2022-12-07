@@ -43,7 +43,7 @@
   <img src="https://profile-counter.glitch.me/SrikanthamSp/count.svg" />
 </p>
 
-br />
+
 </br>
 </br>
 
