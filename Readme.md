@@ -31,3 +31,14 @@
 </a>
 
 </br></br>
+
+<br />
+</br>
+</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SrikanthamSp&theme=dracula" alt="SrikanthamSp" /></p>
+</br>
+<br />
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SrikanthamSp/count.svg" />
+</p>
