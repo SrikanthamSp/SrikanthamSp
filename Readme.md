@@ -68,3 +68,8 @@ Click buttons above to issue new gamepad input, refresh this page to view newst 
 </details>
 
 -----
+
+
+<p align=center>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=SrikanthamSp&show_icons=true&theme=radical">
+</p>
