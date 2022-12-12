@@ -10,7 +10,7 @@
 
  
  
- 📫 How to reach me 
+ 📫 How to reach me -
  
  
  <a href="https://www.linkedin.com/in/sai-praneeth-srikantham-286028257">
