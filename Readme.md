@@ -42,7 +42,9 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/SrikanthamSp/count.svg" />
 </p>
-<img align="right" src="https://user-images.githubusercontent.com/117060110/207082188-42f0d86b-0677-442e-b4c1-2c94f8a400b0.gif" width="250" height="400" >
+</br>
+<br />
+<img align="right" src="https://user-images.githubusercontent.com/117060110/207625768-82c8a4a7-5105-46dc-a17d-30a1426c404a.gif" width="250" height="400" >
 
 </br>
 </br>
