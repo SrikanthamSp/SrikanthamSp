@@ -69,11 +69,12 @@ Click buttons above to issue new gamepad input, refresh this page to view newst 
   <img src="https://playground.aoaoao.me/Api/GBStatistic" />
 </details>
 
------
+---------
 
 
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=SrikanthamSp&show_icons=true&theme=radical">
   </br>
+</br>
 </br>
 <img align="center" src="https://user-images.githubusercontent.com/117060110/207322914-c25f2086-d8d8-4994-ad75-50babeac15dd.gif" width="400" height="190" >
