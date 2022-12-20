@@ -39,7 +39,7 @@
 <br />
 <p > 
   Visitor count<br>
-  <img align="center"src="https://profile-counter.glitch.me/SrikanthamSp/count.svg" />
+  <img align="center"  src="https://profile-counter.glitch.me/SrikanthamSp/count.svg" />
 </p>
 </br>
 <br />
