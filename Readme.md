@@ -37,9 +37,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SrikanthamSp&theme=dracula" alt="SrikanthamSp" /></p>
 </br>
 <br />
-<p align="center"> 
+<p > 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/SrikanthamSp/count.svg" />
+  <img align="center"src="https://profile-counter.glitch.me/SrikanthamSp/count.svg" />
 </p>
 </br>
 <br />
