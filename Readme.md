@@ -68,7 +68,7 @@ Click buttons above to issue new gamepad input, refresh this page to view newst 
   <img src="https://playground.aoaoao.me/Api/GBStatistic" />
 </details>
 
----------
+-----------
 
 
 <p align=center>  
