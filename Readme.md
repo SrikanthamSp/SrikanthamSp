@@ -1,5 +1,3 @@
-<img align="right" src="https://user-images.githubusercontent.com/117060110/202835794-2fd36a9d-47f0-49e6-8763-3f0a55c7b42c.gif" width="400" height="190" >
-
 
 - 👋 Hi, I’m [@SrikanthamSp](https://github.com/SrikanthamSp)
 
